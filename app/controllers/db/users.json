@@ -1,0 +1,17 @@
+{
+  "next_id": 3,
+  "items": [
+    {
+      "id": 1,
+      "nome": "Usuario Teste",
+      "email": "usuario.teste@gmail.com",
+      "senha_hash": "pbkdf2_sha256$200000$ac0e0996ad6479cbceffb99e1259ced8$417ef2cd9abcbb97bbbe27a4d1a38a5ca644604f92e7877acf9629bf59c681e3"
+    },
+    {
+      "id": 2,
+      "nome": "Aluno Teste",
+      "email": "aluno1794017379@exemplo.com",
+      "senha_hash": "pbkdf2_sha256$200000$eca8bc45aa88a3add7b4573ca08fc355$7b0d161c197f9edf4c2cf411ab59a4316fe25b92d4dea742e084fb7ed4405dfc"
+    }
+  ]
+}

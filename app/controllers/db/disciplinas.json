@@ -1,0 +1,29 @@
+{
+  "next_id": 6,
+  "items": [
+    {
+      "id": 1,
+      "codigo": "DEMO0001",
+      "nome": "Cálculo 1",
+      "creditos": 6,
+      "departamento": "Exemplo",
+      "curso": "Engenharias"
+    },
+    {
+      "id": 2,
+      "codigo": "DEMO0002",
+      "nome": "Orientação a Objetos",
+      "creditos": 4,
+      "departamento": "Exemplo",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 3,
+      "codigo": "DEMO0003",
+      "nome": "Física 1",
+      "creditos": 4,
+      "departamento": "Exemplo",
+      "curso": "Engenharias"
+    }
+  ]
+}
